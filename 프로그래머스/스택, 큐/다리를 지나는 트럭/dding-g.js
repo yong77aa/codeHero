@@ -30,6 +30,7 @@ function solution(bridge_length, weight, truck_weights) {
       currentBridgeWeight += truck;
       passingTrucks.push({ truck, tick }); // 견딜 수 있는 무게면 truck숫자와 언제 다리에 진입했는지 저장
     }
+
     // else { // 다리에 더이상 진입하지 못하면 첫번째 passing중인 트럭을 마지막으로.
     //     tick += bridge_length - tick - passingTrucks[0].tick - 1;
     // }
