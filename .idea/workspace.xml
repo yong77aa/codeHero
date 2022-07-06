@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/경로탐색/yong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/경로탐색/경로탐색_문제.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/스택, 큐/다리를 지나는 트럭/yong.py" beforeDir="false" afterPath="$PROJECT_DIR$/스택, 큐/다리를 지나는 트럭/yong.py" afterDir="false" />
+    <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="2022-07-06">
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/경로탐색/yong.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/graph DFS/yong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/경로탐색/경로탐색_문제.png" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/graph DFS/question.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스택, 큐/다리를 지나는 트럭/dding-g.js" beforeDir="false" afterPath="$PROJECT_DIR$/stack, queue/truck/dding-g.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스택, 큐/다리를 지나는 트럭/yong.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack, queue/truck/yong.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2022-07-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-07-06" />
   </component>
 </project>
