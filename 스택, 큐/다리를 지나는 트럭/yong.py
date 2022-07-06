@@ -1,8 +1,8 @@
 bridge_length = 100
 weight = 100
-truck_weights = [,10,10,10,10,10,10,10,10,10]
+truck_weights = [10,10,10,10,10,10,10,10,10,10]
 
-bridge = [0 for _ in range(bridge_length)]  # 다리 배열 []
+bridge = [0 for _ in range(bridge_length)]  # 다리 배열 [0, 0, 0, 0, 0]
 result = 0
 
 while bridge:
