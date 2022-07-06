@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/프로그래머스/스택, 큐/다리를 지나는 트럭/yong.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/스택, 큐/다리를 지나는 트럭/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS, BFS/경로탐색/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS, BFS/경로탐색/경로탐색_문제.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/스택, 큐/다리를 지나는 트럭/yong.py" beforeDir="false" afterPath="$PROJECT_DIR$/스택, 큐/다리를 지나는 트럭/yong.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +26,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BTxSQsZDQ3tnJYJsFU39cshhFi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../용하/3_개발" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HOME\Desktop\용하\3_개발\codeHero\DFS, BFS\경로탐색" />
+      <recent name="C:\Users\HOME\Desktop\용하\3_개발\codeHero" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="yong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -83,5 +95,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
