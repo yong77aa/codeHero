@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/travel_road/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_1978]_소수_찾기/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_2609]_최대공약수와_최소공배수/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_2693]_N번째_큰_수/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/fibo_5/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/intelli_train/yong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/seven_dwarf/yong.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +57,28 @@
       <recent name="C:\Users\HOME\Desktop\용하\3_개발\codeHero" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.yong">
+  <component name="RunManager" selected="Python.yong (4)">
+    <configuration name="yong (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeHero" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/seven_dwarf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/seven_dwarf/yong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="yong (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codeHero" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heap/median" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/[BOJ_2609]_최대공약수와_최소공배수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heap/median/yong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/[BOJ_2609]_최대공약수와_최소공배수/yong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS/virus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/[BOJ_2693]_N번째_큰_수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/virus/yong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/[BOJ_2693]_N번째_큰_수/yong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,32 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS/target_number" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/[BOJ_1978]_소수_찾기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/target_number/yong.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yong (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codeHero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS/hide_and_seek" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/hide_and_seek/yong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/[BOJ_1978]_소수_찾기/yong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.yong" />
-        <item itemvalue="Python.yong (5)" />
         <item itemvalue="Python.yong (4)" />
         <item itemvalue="Python.yong (3)" />
         <item itemvalue="Python.yong (2)" />
+        <item itemvalue="Python.yong (1)" />
+        <item itemvalue="Python.yong" />
       </list>
     </recent_temporary>
   </component>
