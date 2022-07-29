@@ -40,15 +40,5 @@ if __name__ == '__main__':
     visited = [False] * 100001
     path = [0] * 100001
 
-    print("result: %d" % (bfs(n, 0)))
+    print(bfs(n, 0))
     print_path(n, k)
-
-    # result = []
-    # temp_value = k
-    #
-    # for _ in range(k):
-    #     result.append(temp_value)
-    #     temp_value = path[temp_value]
-    #
-    # result.reverse()
-    # print(*result)
