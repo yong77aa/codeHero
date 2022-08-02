@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +52,8 @@
       <recent name="C:\Users\HOME\Desktop\용하\3_개발\codeHero" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (4)">
-    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.solution (1)">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codeHero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/[BOJ_13549]_숨바꼭질_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/[BOJ_13549]_숨바꼭질_3/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
-        <item itemvalue="Python.solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -234,24 +234,14 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2/solution.py</url>
+          <url>file://$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py</url>
           <line>11</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2/solution.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2/solution.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2/solution.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="94" />
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
