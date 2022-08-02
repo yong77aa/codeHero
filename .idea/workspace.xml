@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_11058]_크리보드/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,13 +236,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/backjun/[BOJ_1495]_기타리스트/solution.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="96" />
+          <line>9</line>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

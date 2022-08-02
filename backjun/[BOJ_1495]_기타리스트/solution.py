@@ -8,10 +8,10 @@ if __name__ == "__main__":
         for j in range(m + 1):
             if not dp[i][j]:
                 continue
-            if j + v[i] <= m:
-                dp[i + 1][j + v[i]] = True
-            if j - v[i] >= 0:
-                dp[i + 1][j - v[i]] = True
+            if j + arr[i] <= m:
+                dp[i + 1][j + arr[i]] = True
+            if j - arr[i] >= 0:
+                dp[i + 1][j - arr[i]] = True
 
     answer = -1
     for i in range(m, -1, -1):
