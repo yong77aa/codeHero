@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/backjun/[BOJ_3568]_iSharp/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/베스트앨범/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/graph DFS/question.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/graph DFS/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/hide_and_seek/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/network/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/target_number/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/travel_road/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/virus/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heap/absolute_heap/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heap/max_heap/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heap/median/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/Josephus/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/bracket/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/printer/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/stock_price/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/truck/dding-g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/truck/yong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack, queue/work_reverse/yong.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +69,7 @@
       <recent name="C:\Users\HOME\Desktop\용하\3_개발\codeHero" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution">
+  <component name="RunManager" selected="Python.solution (3)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codeHero" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codeHero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/베스트앨범" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backjun/[BOJ_15486]_퇴사_2/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/베스트앨범/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution (4)" />
       </list>
     </recent_temporary>
   </component>
