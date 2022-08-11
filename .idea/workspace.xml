@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ba2b55-fda0-46cb-b28e-51f862b31616" name="변경" comment="2022-07-06">
-      <change afterPath="$PROJECT_DIR$/programmers/카펫/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/게임 맵 최단거리/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/소수 찾기/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/소수 찾기/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +52,8 @@
       <recent name="C:\Users\HOME\Desktop\용하\3_개발\codeHero" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (4)">
-    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.solution (1)">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codeHero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/올바른 괄호" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/게임 맵 최단거리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/올바른 괄호/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/게임 맵 최단거리/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
-        <item itemvalue="Python.solution (2)" />
       </list>
     </recent_temporary>
   </component>
