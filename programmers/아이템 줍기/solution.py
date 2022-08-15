@@ -28,7 +28,6 @@ if __name__ == "__main__":
     d = deque([(characterX, characterY)])
     while d:
         x, y = d.popleft()
-        print("x: %d, y: %d" %(x, y))
 
         if (x, y) == (itemX, itemY):
             answer = (board[x][y] - 1) // 2
@@ -43,4 +42,3 @@ if __name__ == "__main__":
                 visited[dy][dy] = 1
                 d.append((dx, dy))
 
-    print(answer)
